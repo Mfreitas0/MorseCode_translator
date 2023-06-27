@@ -15,18 +15,18 @@ O usuário terá que digitar uma opção de sua escolha:
 
 &nbsp;
 
-Em situações de opção inválida e entrada não numéricas:
+Opção inválida e entrada não numéricas:
 
 ![Alt text](morse_code_translator/img/image1.png)
 
 &nbsp;
 
-Opção de texto para Código Morse:
+Texto para Código Morse:
 
 ![g](morse_code_translator/img/image2.png)
 
 &nbsp;
 
-Opção de Morse para texto:
+Morse para texto:
 
 ![Alt text](morse_code_translator/img/image3.png)
